@@ -1,4 +1,4 @@
-# Text-Editor
+# Text Editor
 Users must login to utilise text editor, before writing content for that is saved in a text file. Provides standard features of 'Save', 'Save As', and 'Open'. Login accounts are saved to the local instance of MySQL Server, and the script to create this db is available in createLoginUserDB.sql
 
 # How To Set Up (Important!):
