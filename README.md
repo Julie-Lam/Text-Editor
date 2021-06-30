@@ -5,9 +5,4 @@ Users must login to utilise text editor, before writing content for that is save
 Please follow the steps below before attempting to launch the Text Editor app. You must first generate the database schema in your local MYSQL instance to allow this application to function as intended.  
 
 1. Open and run the SQL script file located at: Text-Editor/createLoginUserDB.sql on MySQL Workbench 
-2. Open the exe file located at: TafeMoodle/TafeMoodle/TafeMoodle/bin/Debug/netcoreapp3.1/TafeMoodle.exe 
-
-# How to Open the Application in Visual Studio 
-To view the project and all the files:
-
-1. Open and file located at: TafeMoodle/TafeMoodle/TafeMoodle.sln 
+2. Open the exe file located at: Text-Editor/dist/SkillsAss2.jar 
